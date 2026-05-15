@@ -1,0 +1,15 @@
+﻿build/
+.dart_tool/
+.gradle/
+.idea/
+.vscode/
+node_modules/
+dist/
+out/
+coverage/
+.env
+*.log
+*.tmp
+*.cache
+*.iml
+local.properties
